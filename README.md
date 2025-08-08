@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hey, I’m Christine ⚡️
 
-I’m an engineer with a multidisciplinary background in **software**, **computer**, and **electrical engineering**. I love building things that bridge hardware and software.
+I’m an engineering student, currently specializing in **software**, **computer**, and **electrical engineering**. I love building things that bridge hardware and software.
 
 🛠️ **Currently exploring:**  
 - Java for object-oriented design  
